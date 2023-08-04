@@ -1,15 +1,11 @@
         
 [
   {
-    "patchName": "Custom branding",
+    "patchName": "Custom branding YouTube name",
     "options": [
       {
-        "key": "appName",
+        "key": "YouTubeAppName",
         "value": "Metube"
-      },
-      {
-        "key": "iconPath",
-        "value": "/storage/emulated/0/Download/youtbe icon do delete"
       }
     ]
   }

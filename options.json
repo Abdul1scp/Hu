@@ -1,0 +1,17 @@
+        
+[
+  {
+    "patchName": "Custom branding",
+    "options": [
+      {
+        "key": "appName",
+        "value": "Metube"
+      },
+      {
+        "key": "iconPath",
+        "value": "/storage/emulated/0/Download/youtbe icon do delete"
+      }
+    ]
+  }
+]
+        
